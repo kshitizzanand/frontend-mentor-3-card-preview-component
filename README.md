@@ -7,8 +7,8 @@ The project focuses on **semantic HTML, clean Flexbox layout logic, and maintain
 
 ## 🔗 Links
 
-- **Live Site:** <!-- add live URL here -->
-- **Frontend Mentor Solution:** <!-- add solution URL here -->
+- **Live Site:** (https://kshitizzanand.github.io/frontend-mentor-3-card-preview-component/)
+- **Frontend Mentor Solution:** (https://www.frontendmentor.io/solutions/3-column-preview-component-using-html-and-css-BfAMMw3FgT)
 
 ---
 
